@@ -160,7 +160,7 @@ try:
                 time.sleep(1)
                 webbrowser.open_new_tab(Down_links[0])  # web browser open
                 print(lC +"")
-                downchoice = input("Didn't work, Try another link ! (Y/n) : ")  # asking id downloaded or not 
+                downchoice = input("Didn't work, Try another link ! (Y/n) : ")  # asking if downloaded or not 
 
                 if downchoice == "Y" or downchoice == "y" :
                     webbrowser.open_new_tab(Down_links[1])    # open another link in web browser

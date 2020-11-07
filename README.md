@@ -12,6 +12,5 @@
 # Direct Download Working :
   # torrentSiteSearchndownloadv2.py
 
-# Thats all , simple
 
 # ~GH0STH4CK3R

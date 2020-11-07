@@ -9,8 +9,10 @@
 # 2. Input torrent number (in printed list)
 # 3. Choose download method
 <br>
+
 # [+] Direct Download Working :
   # torrentSiteSearchndownloadv2.py
+
 <br>
 
 # ~GH0STH4CK3R

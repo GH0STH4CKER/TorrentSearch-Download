@@ -1,5 +1,7 @@
 # Torrent_Search_and_Download
 
+# Direct Download Working in torrentSiteSearchndownloadv2.py
+
 ![screenshot](https://github.com/GH0STH4CKER/TorrentSearch-Download/blob/master/torrschndownss.png?raw=true)
 
 # Steps >

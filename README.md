@@ -10,7 +10,7 @@
 # 3. Choose download method
 
 # Direct Download Working :
-  torrentSiteSearchndownloadv2.py
+  # torrentSiteSearchndownloadv2.py
 
 # Thats all , simple
 

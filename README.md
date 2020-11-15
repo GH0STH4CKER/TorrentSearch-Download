@@ -1,4 +1,4 @@
-# CLI version for !1337x.to Site
+# CLI version for www.1337x.to Site
 
 
 ![screenshot](https://github.com/GH0STH4CKER/TorrentSearch-Download/blob/master/torrschndownss.png?raw=true)

@@ -183,6 +183,7 @@ try:
                 if r.status_code == 200 :
                     open(saveNM, 'wb').write(r.content)   # Saving file 
                     print("\nSaved Successfully > check current folder ")
+                    print("Ex - ",os.path.abspath(saveNM))
     
                 else:
                     print(lR + "Something went wrong, Error code ",r.status_code,"\nFailed to download :",direct_link)

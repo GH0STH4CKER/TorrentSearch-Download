@@ -9,7 +9,7 @@
 <h2> 3. Choose download method </h2>
 <br>
 
-<h2> [+] Direct Download (.torrent) :
+<h2> [+] Direct Download (.torrent) Support in :
    &nbsp;&nbsp;&nbsp;&nbsp;torrentSiteSearchndownloadv2.py </h2>
 
 <br>
